@@ -3,3 +3,5 @@
 Projekt realizowany jako zaliczenie wykładu z przedmiotu "Podstawy elektroniki"
 
 Wersja Unity: 2020.3.19f1
+
+Gotowy build WebGL znajduje się w folderze BuildWebGL
