@@ -1,4 +1,4 @@
-# Witualny spacer po laboratorium A308
+# Witualny spacer po laboratorium A304 i A308
 
 Projekt realizowany jako zaliczenie wykładu z przedmiotu "Podstawy elektroniki"
 
